@@ -1,0 +1,12 @@
+<resources>
+    <color name="primaryColor">#6200EE</color>
+    <color name="primaryLightColor">#BB86FC</color>
+    <color name="primaryDarkColor">#3700B3</color>
+    <color name="secondaryColor">#03DAC5</color>
+    <color name="secondaryLightColor">#CFD8DC</color>
+    <color name="secondaryDarkColor">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="errorColor">#B00020</color>
+    <color name="backgroundColor">#F5F5F5</color>
+</resources>
